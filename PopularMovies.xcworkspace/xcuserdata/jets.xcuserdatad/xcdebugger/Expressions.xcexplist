@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MoviesViewController.(fetchMovies() -&gt; ()).(closure #1):MoviesViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MovieDetailsViewController.collectionView(UICollectionView, didSelectItemAt : IndexPath) -&gt; ():MovieDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "trailers[indexPath.row].key">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovieDetailsViewController.(fetchTrailers() -&gt; ()).(closure #1):MovieDetailsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MovieDetailsViewController.viewWillAppear(Bool) -&gt; ():MovieDetailsViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

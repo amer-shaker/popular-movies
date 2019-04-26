@@ -4,7 +4,7 @@ User can add movies to favourite movies Core Data database and can display the m
 
 # Features
 - Find popular movies.
-- Find most rated movies.
+- Find top rated movies.
 - Show trailers and reviews of the movies.
 - Mark Movies as favourites.
 - Add favourite movies.

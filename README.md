@@ -1,5 +1,5 @@
 # Popular Movies
-An IOS Application to update users with most popular and top Rated movies, 
+An iOS Application to update users with most popular and top Rated movies, 
 User can add movies to favourites movies Core Data database and can display the movie poster, details and overview while he is offline.
 
 # Features

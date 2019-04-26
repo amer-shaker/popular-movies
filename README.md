@@ -1,6 +1,6 @@
 # Popular Movies
 An iOS Application to update users with most popular and top Rated movies, 
-User can add movies to favourites movies Core Data database and can display the movie poster, details and overview while he is offline.
+User can add movies to favourite movies Core Data database and can display the movie poster, details and overview while he is offline.
 
 # Features
 - Find popular movies.

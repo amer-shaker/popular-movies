@@ -26,13 +26,13 @@ User can add movies to favourites movies Core Data database and can display the 
 
 # Technical Notes: 
 
--Use themoviedb.org API for movies data
+- Use themoviedb.org API for movies data
 
--Use TableView and CollectionView
+- Use TableView and CollectionView
 
--Use Core data database for storing movies details
+- Use Core data database for storing movies details
 
--Follow most of Google Design Guidelines
+- Follow most of Google Design Guidelines
 
 # Used libraries:
 
